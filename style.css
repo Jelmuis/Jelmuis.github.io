@@ -126,6 +126,11 @@ li a:hover {
     transition: border 2s;
 
 }
+.audioplayer{
+    display: block;
+    width: 250px;
+    height: 20 px;
+}
 
 .intro:hover{
     transition: background-image 2s;
