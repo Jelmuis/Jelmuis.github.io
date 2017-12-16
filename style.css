@@ -88,6 +88,20 @@ html, body{
     font-weight:bold;
     text-align: center;
 }
+
+.imageGallery{
+    display: flex;
+    flex-wrap: wrap;
+}
+.image{
+    width: 420px;
+    flex-grow: 1;
+
+}
+.image img{
+    width: 100%;
+    height: auto;
+}
 .navigation{
     margin-top: 5px;
     text-align: center;
