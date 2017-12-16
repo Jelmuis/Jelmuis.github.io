@@ -79,7 +79,7 @@ html, body{
 }
 
 .content{
-    height: 80vh;
+    min-height: 80vh;
     width: 80vw;
     margin: auto;
     background: rgba(255, 255, 255, 0.9);
@@ -94,7 +94,7 @@ html, body{
     flex-wrap: wrap;
 }
 .image{
-    width: 420px;
+    width: 300px;
     flex-grow: 1;
 
 }
