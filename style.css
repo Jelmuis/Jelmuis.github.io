@@ -156,13 +156,6 @@ li a:hover {
     transition: background-image 2s;
     background-image: url( "minilogueDark.png");
 }
-.vCO1-2{
-    
-}
-
-
-
-
 
 /* Bordered form */
 form {
@@ -221,29 +214,6 @@ span.psw {
     padding-top: 16px;
     color: #E32B0B;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 @keyframes changeBackground {
     0% {
